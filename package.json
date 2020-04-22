@@ -1,8 +1,9 @@
 {
-  "name": "git-branch-status",
-  "version": "1.0.0",
+  "name": "@eraz7/git-branch-status",
+  "version": "1.0.1",
   "description": "Show status for all git branches",
   "main": "index.js",
+  "private": false,
   "bin": {
     "branch-status": "./bin/branchStatus.js"
   },

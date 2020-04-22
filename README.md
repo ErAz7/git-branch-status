@@ -3,7 +3,7 @@ show status for branches in git
 
 ## Installation
 ```bash
-npm i -g ErAz7/git-branch-status
+npm i -g @eraz7/git-branch-status
 ```
 ## Usage Example
 ### Without Args
