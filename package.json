@@ -1,0 +1,32 @@
+{
+  "name": "git-branch-status",
+  "version": "1.0.0",
+  "description": "Show status for all git branches",
+  "main": "index.js",
+  "bin": {
+    "branch-status": "./bin/branchStatus.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErAz7/git-branch-status.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "status"
+  ],
+  "author": "Erfan Azary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErAz7/git-branch-status/issues"
+  },
+  "homepage": "https://github.com/ErAz7/git-branch-status#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "eslint-config-node": "^4.0.0",
+    "yargs": "^15.3.1"
+  }
+}
